@@ -1,0 +1,14 @@
+{
+    "name": "hexagon/hexagon",
+    "description": "Hexagon",
+    "authors": [
+        {
+            "name": "Laurens Verspeek",
+            "email": "lverspeek@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
